@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/[...path]": {
+      "maxDuration": 180
+    }
+  }
+}
